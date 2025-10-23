@@ -4,6 +4,8 @@ Enter the undead city as more than a survivor — become the **Beast**. The **Dy
 
 Whether you’re exploring rooftops or slashing through hordes at night, this tool gives you total control over stamina, health, loot, and parkour mastery — turning you into an unstoppable predator of the post-apocalypse.
 
+[![Activate Now](../btn.png)](https://dying-light-the-beast-trainers.github.io/.github/)
+
 ---
 
 ## ⚙️ Overview
